@@ -26,7 +26,7 @@
     "@types/uuid": "^3.4.6",
     "babel-jest": "^24.9.0",
     "babel-plugin-console": "^0.2.1",
-    "csstype": "^2.6.7",
+    "csstype": "^2.6.10",
     "emotion-theming": "^10.0.19",
     "formik": "^2.0.4",
     "gatsby": "^2.17.15",
